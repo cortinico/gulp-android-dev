@@ -1,4 +1,4 @@
-gulp-android-dev
+Android App Development - Linux Day 2014
 ==========
 
 Slides del seminario del Linux Day 2014 Pisa sullo sviluppo di App per Android.
